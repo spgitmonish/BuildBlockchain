@@ -1,2 +1,3 @@
 # BuildBlockchain
-Repo to learn about blockchains by building one!
+Using https://github.com/spgitmonish/BuildBlockchain.git to learn
+about blockchain by building one!
